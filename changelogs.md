@@ -1,3 +1,61 @@
+<h1>v0.3.0</h1>
+
+**New mods, fixes in the mods + more!**
+
+**NOTE! PACK IS STILL BEING DEVELOPED, POTENTIAL MAJOR- BREAKING UPDATES COMING!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Advanced Peripherals](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals)
+- [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost)
+- [Building Wands](https://www.curseforge.com/minecraft/mc-mods/building-wands)
+- [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
+- [DataPack Anvil](https://www.curseforge.com/minecraft/mc-mods/datapack-anvil)
+- [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings)
+- [Elemental Craft](https://www.curseforge.com/minecraft/mc-mods/elemental-craft)
+- [Feder's Scarecrows](https://www.curseforge.com/minecraft/mc-mods/feders-scarecrows)
+- [Joy of Painting](https://www.curseforge.com/minecraft/mc-mods/joy-of-painting)
+- [Reload Audio Driver (RAD)](https://www.curseforge.com/minecraft/mc-mods/reload-audio-driver-rad)
+- [Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear)
+- [Silent Lib](https://www.curseforge.com/minecraft/mc-mods/silent-lib)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Some minor changes in mod updates. (**Bigger noticable changes will be written.**)
+
+
+**Fixes**
+- Fixes in mod updates. (**Bigger noticable fixes will be written.**)
+
+
+**Updated**
+- Updated **Forge** to version **37.0.28**
+- All mods that could be updated have been updated.
+
+
+**Very Known Issue:**
+- Lots of **advancements** will trigger when you first pick up an item in your world.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-4/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.2.0</h1>
 
 **NOTE! PACK IS STILL BEING DEVELOPED, POTENTIAL MAJOR- BREAKING UPDATES COMING!**
