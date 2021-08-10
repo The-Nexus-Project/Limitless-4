@@ -40,7 +40,7 @@
 
 
 **Very Known Issue:**
-- Lots of **advancements** will trigger when you first pick up an item in your world.
+- There will be an **advancement spam** and some **lag** when picking up an item in your newly **created worlds**. (**Known issue.**)
 
 
 **Reporting Issues**
