@@ -40,7 +40,7 @@
 
 
 **Very Known Issue:**
-- There will be an **advancement spam** and some **lag** when picking up an item in your newly **created worlds**. (**Known issue.**)
+- There will be an **advancement spam** and some **lag** when picking up an item in your newly **created worlds**. (**Known Forge issue.**)
 
 
 **Reporting Issues**
