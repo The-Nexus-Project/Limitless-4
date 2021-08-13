@@ -1,5 +1,7 @@
 <h1>v0.4.0</h1>
 
+**New mods, updates & an official server added!**
+
 **NOTE! PACK IS STILL BEING DEVELOPED, POTENTIAL MAJOR- BREAKING UPDATES COMING!**
 
 **A reset/deletion of the 'serverconfig' folder is highly recommended with this update! It's located inside your /world/ folder.**
