@@ -1,3 +1,56 @@
+<h1>v0.4.0</h1>
+
+**NOTE! PACK IS STILL BEING DEVELOPED, POTENTIAL MAJOR- BREAKING UPDATES COMING!**
+
+**A reset/deletion of the 'serverconfig' folder is highly recommended with this update! It's located inside your /world/ folder.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Bamboo Everything](https://www.curseforge.com/minecraft/mc-mods/bamboo-everything-forge)
+- [Rustic Regenerated](https://www.curseforge.com/minecraft/mc-mods/rustic-regenerated)
+- [Shrink](https://www.curseforge.com/minecraft/mc-mods/shrink_)
+- [Storage Cabinet](https://www.curseforge.com/minecraft/mc-mods/storage-cabinet)
+- [Telepads](https://www.curseforge.com/minecraft/mc-mods/telepad)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added an **Official TNP Limitless 4 Server** to the **Multiplayer list**.
+- Larger trees are no longer harder to break.
+- Some minor changes in mod updates. (**Bigger noticable changes will be written.**)
+
+
+**Fixes**
+- Fixes in mod updates. (**Bigger noticable fixes will be written.**)
+
+
+**Updated**
+- Updated **Forge** to version **37.0.30**
+- All mods that could be updated have been updated.
+
+
+**Very Known Issue:**
+- There will be an **advancement spam** and some **lag** when picking up an item in your newly **created worlds**. (**Known Forge issue.**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-4/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.3.0</h1>
 
 **New mods, fixes in the mods + more!**
