@@ -1,5 +1,7 @@
 <h1>v0.5.0</h1>
 
+**Light Level Overlay, New Enchantments, Torchmaster + more!**
+
 **NOTE! PACK IS STILL BEING DEVELOPED, POTENTIAL MAJOR- BREAKING UPDATES COMING!**
 
 **Always remember to backup your world(s) before updating!**
