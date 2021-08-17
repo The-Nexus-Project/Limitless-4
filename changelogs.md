@@ -1,3 +1,55 @@
+<h1>v0.5.0</h1>
+
+**NOTE! PACK IS STILL BEING DEVELOPED, POTENTIAL MAJOR- BREAKING UPDATES COMING!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Burlap Sack](https://www.curseforge.com/minecraft/mc-mods/burlap-sack)
+- [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay)
+- [Ma Enchants](https://www.curseforge.com/minecraft/mc-mods/ma-enchants)
+- [Rings of Ascension](https://www.curseforge.com/minecraft/mc-mods/rings-of-ascension)
+- [Torchmaster](https://www.curseforge.com/minecraft/mc-mods/torchmaster)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Changes in mod updates. (**Bigger noticable changes will be written.**)
+
+
+**Fixes**
+- A crash tied to **BOP "Pus bubbles"** has been fixed.
+- Fixed **REI Cheat Mode** being on by default. (**Oopsie**.)
+- Fixes in mod updates. (**Bigger noticable fixes will be written.**)
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Known Issues:**
+- There will be an **advancement spam** and some **lag** when picking up an item in your newly **created worlds**. (**Known Forge issue.**)
+- **Particles** become **dark** when picking up **items/exp orbs**. (**Known Forge issue.**)
+- The **Server Console** being spammed with "Clicked" when punching blocks. (**Mod issue.**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-4/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.4.0</h1>
 
 **New mods, updates & an official server added!**
