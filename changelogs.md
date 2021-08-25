@@ -1,3 +1,67 @@
+<h1>v0.6.0</h1>
+
+**New exciting mods, some removed mods + more!**
+
+**A new world is highly recommended with this update! (Existing ones might break in interesting ways!)**
+
+**NOTE! PACK IS STILL IN ITS EARLY DAYS, POTENTIAL MAJOR- BREAKING UPDATES COMING!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Additional Bars](https://www.curseforge.com/minecraft/mc-mods/additional-bars) (**+ BOP Addon.**)
+- [Better Azalea](https://www.curseforge.com/minecraft/mc-mods/better-azalea)
+- [Construction Wand](https://www.curseforge.com/minecraft/mc-mods/construction-wand)
+- [DimStorage](https://www.curseforge.com/minecraft/mc-mods/dimstorage)
+- [Iron Furnaces](https://www.curseforge.com/minecraft/mc-mods/iron-furnaces)
+- [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items-forge)
+- [Just Enough Resources](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
+- [Pane In The Glass](https://www.curseforge.com/minecraft/mc-mods/pane-in-the-glass)
+- [Security Craft](https://www.curseforge.com/minecraft/mc-mods/security-craft)
+- [Water Strainer](https://www.curseforge.com/minecraft/mc-mods/water-strainer)
+- [Wormhole (Portals)](https://www.curseforge.com/minecraft/mc-mods/wormhole-portals)
+
+
+**Removed**
+- [Building Wands](https://www.curseforge.com/minecraft/mc-mods/building-wands)
+- [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items-forge)
+- [Slab Machines](https://www.curseforge.com/minecraft/mc-mods/slab-machines) (**Temporarily**.)
+- [Ma Enchants](https://www.curseforge.com/minecraft/mc-mods/ma-enchants) (**Temporarily**.)
+
+
+**Changes**
+- Changes in mod updates.
+
+
+**Fixes**
+- Fixes in mod updates. 
+
+
+**Updated**
+- Updated **Forge** to version **37.0.43**
+- All mods that could be updated have been updated.
+
+
+**Known Issues:**
+- There will be an **advancement spam** and some **lag** when picking up an item in your newly **created worlds**. (**Known Forge issue.**)
+- **Particles** become **dark** when picking up **items/exp orbs**. (**Known Forge issue.**)
+- The **Server Console** being spammed with "Clicked" when punching blocks. (**Mod issue.**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-4/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.5.0</h1>
 
 **Light Level Overlay, New Enchantments, Torchmaster + more!**
