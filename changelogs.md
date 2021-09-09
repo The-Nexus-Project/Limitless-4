@@ -1,3 +1,69 @@
+<h1>v0.7.0</h1>
+
+**New crops, tools/weapons, deco blocks + more!**
+
+**NOTE! PACK IS STILL IN ITS EARLY DAYS, POTENTIAL MAJOR- BREAKING UPDATES COMING!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Additional Enchanted Miner (Quarry Plus)](https://www.curseforge.com/minecraft/mc-mods/additional-enchanted-miner)
+- [Better Game Menu](https://www.curseforge.com/minecraft/mc-mods/better-game-menu)
+- [Connected Glass](https://www.curseforge.com/minecraft/mc-mods/connected-glass)
+- [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric)
+- [Detail Armor Bar](https://www.curseforge.com/minecraft/mc-mods/detail-armor-bar-forge)
+- [Easy Villagers](https://www.curseforge.com/minecraft/mc-mods/easy-villagers)
+- [Engineer's Decor](https://www.curseforge.com/minecraft/mc-mods/engineers-decor)
+- [FramedBlocks](https://www.curseforge.com/minecraft/mc-mods/framedblocks)
+- [It's the little things](https://www.curseforge.com/minecraft/mc-mods/its-the-little-things) (**temp**)
+- [Login Protection](https://www.curseforge.com/minecraft/mc-mods/login-protection)
+- [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
+- [Ores Above Diamonds](https://www.curseforge.com/minecraft/mc-mods/ores-above-diamonds)
+- [Slab Machines](https://www.curseforge.com/minecraft/mc-mods/slab-machines)
+- [Wireless Chargers](https://www.curseforge.com/minecraft/mc-mods/wireless-chargers)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Disabled the **Inventory Profiles Switching Button** under the **Inventory**.
+- Items in inventory now show what mod they're from.
+- New window title & icon.
+- Changes in mod updates.
+
+
+**Fixes**
+- A server crash related to **Chunky Turtles** have been fixed.
+- Fixes in mod updates. 
+
+
+**Updated**
+- Updated **Forge** to version **37.0.53**
+- All mods that could be updated have been updated.
+
+
+**Known Issues:**
+- There will be an **advancement spam** and some **lag** when picking up an item in your newly **created worlds**. (**Known Forge issue.**)
+- **Particles** become **dark** when picking up **items/exp orbs**. (**Known Forge issue.**)
+- The **Server Console** being spammed with "Clicked" when punching blocks. (**Mod issue.**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-4/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.6.0</h1>
 
 **New exciting mods, some removed mods + more!**
