@@ -37,6 +37,7 @@
 
 **Fixes**
 - A server crash related to **Chunky Turtles** have been fixed.
+- Charcoal having no recipe has been fixed.
 - Fixes in mod updates. 
 
 
