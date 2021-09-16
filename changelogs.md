@@ -2,6 +2,9 @@
 
 **Server Fixes!**
 
+**Fixes**
+- Specific server hosts being unable to start servers has been fixed.
+
 **Very Known Issues:**
 - There will be an **advancement spam** and some **lag** when picking up an item in your newly **created worlds**. (**Known Forge issue.**)
 - Modded advancements overall are having issues in **Forge 1.17.1** right now.
@@ -21,9 +24,6 @@
 **Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
 
 ---------------
-
-**Fixes**
-- Specific server hosts being unable to start servers has been fixed.
 
 <h1>v0.8.0</h1>
 
