@@ -2,6 +2,8 @@
 
 **Server Fixes!**
 
+READ THE FULL CHANGELOG [HERE](https://www.curseforge.com/minecraft/modpacks/tnp-limitless-4/files/3461147) OR [HERE](https://github.com/The-Nexus-Project/Limitless-4/blob/main/changelogs.md#v081)!
+
 **Fixes**
 - Specific server hosts being unable to start servers has been fixed.
 
