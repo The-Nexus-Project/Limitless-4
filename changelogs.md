@@ -1,3 +1,29 @@
+<h1>v0.8.1</h1>
+
+**Server Fixes!**
+**Very Known Issues:**
+- There will be an **advancement spam** and some **lag** when picking up an item in your newly **created worlds**. (**Known Forge issue.**)
+- Modded advancements overall are having issues in **Forge 1.17.1** right now.
+- **Particles** become **dark** when picking up **items/exp orbs**. (**Known Forge issue.**)
+- The **Server Console** being spammed with "Clicked" when punching blocks. (**Mod issue.**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-4/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
+**Fixes**
+- Specific server hosts being unable to start servers has been fixed.
+
 <h1>v0.8.0</h1>
 
 **Bees, Dimensional Dungeons + More!**
