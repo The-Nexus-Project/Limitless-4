@@ -1,3 +1,68 @@
+<h1>v0.8.0</h1>
+
+**Bees, Dimensional Dungeons + More!**
+
+**NOTE! PACK IS STILL IN ITS EARLY DAYS, POTENTIAL MAJOR- BREAKING UPDATES COMING!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
+- [Dimensional Dungeons](https://www.curseforge.com/minecraft/mc-mods/dimensional-dungeons)
+- [Flat Bedrock](https://www.curseforge.com/minecraft/mc-mods/flat-bedrock)
+- [Gardening Tools](https://www.curseforge.com/minecraft/mc-mods/gardening-tools)
+- [Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders)
+- [JAOPCA](https://www.curseforge.com/minecraft/mc-mods/jaopca)
+- [My Server Is Compatible](https://www.curseforge.com/minecraft/mc-mods/my-server-is-compatible)
+- [Nicephore](https://www.curseforge.com/minecraft/mc-mods/nicephore)
+- [OAuth](https://www.curseforge.com/minecraft/mc-mods/oauth)
+- [Productive Bees](https://www.curseforge.com/minecraft/mc-mods/productivebees)
+- [Recall](https://www.curseforge.com/minecraft/mc-mods/recall)
+- [Similsax Transtructors](https://www.curseforge.com/minecraft/mc-mods/similsax-transtructors)
+- [Sound Device Options](https://www.curseforge.com/minecraft/mc-mods/more-sound-config)
+- [Tiny Gates](https://www.curseforge.com/minecraft/mc-mods/tiny-gates)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- The **FML** compatible server icon has been **removed** to avoid **confusion** if server is **compatible**.
+- Changes in mod updates.
+
+
+**Fixes**
+- Uranium Ore not generating has been fixed.
+- General fixes in mod updates. 
+
+
+**Updated**
+- All mods that could be updated have been updated.
+- Updated **Forge** to version **37.0.61**
+
+
+**Very Known Issues:**
+- There will be an **advancement spam** and some **lag** when picking up an item in your newly **created worlds**. (**Known Forge issue.**)
+- Modded advancements overall are having issues in **Forge 1.17.1** right now.
+- **Particles** become **dark** when picking up **items/exp orbs**. (**Known Forge issue.**)
+- The **Server Console** being spammed with "Clicked" when punching blocks. (**Mod issue.**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-4/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.7.0</h1>
 
 **New crops, tools/weapons, deco blocks + more!**
