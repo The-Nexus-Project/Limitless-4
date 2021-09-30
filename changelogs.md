@@ -1,3 +1,79 @@
+<h1>v0.9.0</h1>
+
+**Vein Mining, eat for hearts, lush caves + more!**
+
+**WARNING! This update replaces the current Backpack mod, empty yours before updating!**
+
+**Note! A new world with this update is recommended. (Not needed!)**
+
+**PACK IS STILL IN ITS EARLY DAYS, POTENTIAL MAJOR- BREAKING UPDATES COMING!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds)
+- [Extreme Sound Muffler](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler)
+- [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu)
+- [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
+- [Global Datapacks](https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack)
+- [Konkrete](https://www.curseforge.com/minecraft/mc-mods/konkrete)
+- [Lazy DFU](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge)
+- [Lush Cave Gen](https://www.curseforge.com/minecraft/mc-mods/lush-cave-gen)
+- [MmmMmmMmmMmm](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)
+- [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
+- [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
+- [Vein Mining](https://www.curseforge.com/minecraft/mc-mods/vein-mining) **(TEMP, will be removed once OreExcavate or Ultimine updates.**)
+
+
+**Removed**
+- [Better Title Screen](https://www.curseforge.com/minecraft/mc-mods/better-title-screen)
+- [Packed Up (Backpacks)](https://www.curseforge.com/minecraft/mc-mods/packed-up-backpacks)
+
+
+**Changes**
+- You will now always receive an **Enchanted Key** on death, use it to return to your **death location**.
+- Added a Welcome advancement on **New Worlds / New Player** Join.
+- You can now **Vein Mine** blocks. (**Grave Default Key, only works with Tool in hand.**)
+- You can now eat food to increase your maximum health.
+- Made the **Copper Furnace** and **Upgrades** craftable.
+- New **Pack Loading Screen** background, text.
+- New **Main Menu** background, text.
+- Changes in mod updates.
+
+
+**Fixes**
+- Temp "**fixed**" advancement spam when joining a world and picking up items.
+- Fixed **Rustic Regen** biomes having unlocalized names under the minimap.
+- Crash when **breaking/interacting** with **Macaw's Blocks** has been fixed.
+- General fixes in mod updates. 
+
+
+**Updated**
+- Updated **Forge** to version **37.0.73**
+- All mods that could be updated have been updated.
+
+
+**Very Known Issues**
+- There will be a slight lag spike when you first pick up an item in your newly created worlds. (**Forge issue.**)
+- Modded advancements overall are having issues in **Forge 1.17.1** right now.
+- **Particles** become **dark** when picking up **items/exp orbs**. (**Known Forge issue.**)
+- The **Server Console** being spammed with "Clicked" when punching blocks. (**Mod issue.**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-4/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.8.1</h1>
 
 **Server Fixes!**
