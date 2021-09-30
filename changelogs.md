@@ -18,7 +18,6 @@
 - [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
 - [Global Datapacks](https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack)
 - [Konkrete](https://www.curseforge.com/minecraft/mc-mods/konkrete)
-- [Lazy DFU](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge)
 - [Lush Cave Gen](https://www.curseforge.com/minecraft/mc-mods/lush-cave-gen)
 - [MmmMmmMmmMmm](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)
 - [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
