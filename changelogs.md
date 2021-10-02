@@ -26,6 +26,7 @@
 
 
 **Updated**
+- Updated **Forge** to version **37.0.75**
 - All mods that could be updated have been updated.
 
 
