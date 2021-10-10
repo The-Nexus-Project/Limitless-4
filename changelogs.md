@@ -1,3 +1,66 @@
+<h1>v0.10.0</h1>
+
+**Artifacts, Chisels & Bits, Waystones + More!**
+
+**NOTE! PACK IS STILL IN ITS EARLY DAYS, POTENTIAL MAJOR- BREAKING UPDATES COMING!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts)
+- [Chisels & Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
+- [Essentials](https://www.curseforge.com/minecraft/mc-mods/essentials)
+- [Floral Enchantment](https://www.curseforge.com/minecraft/mc-mods/floral-enchantment)
+- [Just Enough Professions](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep)
+- [LavaTech](https://www.curseforge.com/minecraft/mc-mods/lavatech)
+- [More Overlays Updated](https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated)
+- [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)
+- [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones) (+ [Balm](https://www.curseforge.com/minecraft/mc-mods/balm))
+
+
+**Removed**
+- [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay)
+- [Telepad](https://www.curseforge.com/minecraft/mc-mods/telepad)
+
+
+**Changes**
+- You can now **double click** the **JEI** search bar to search for items in **GUIs**.
+- Disabled **Xaero's Minimap/World Map** update notification.
+- Changes in mod updates.
+
+
+**Fixes**
+- Fixed a recipe conflict between a **Bag of Yurting** & any **Elevator**.
+- Hopefully fixed settings resetting each time the pack starts.
+- General fixes in mod updates. 
+
+
+**Updated**
+- Updated **Forge** to version **37.0.84**
+- All mods that could be updated have been updated.
+
+
+**Very Known Issues**
+- There will be a slight lag spike when you first pick up an item in your newly created worlds. (**Forge issue.**)
+- Modded advancements overall are having issues in **Forge 1.17.1** right now.
+- **Particles** become **dark** when picking up **items/exp orbs**. (**Known Forge issue.**)
+- The **Server Console** being spammed with "Clicked" when punching blocks. (**Mod issue.**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-4/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.9.3</h1>
 
 **Hotfix. Fixes a modloading error on server startups! (Not compatible with v0.9.2!)**
