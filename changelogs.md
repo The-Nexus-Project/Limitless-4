@@ -14,7 +14,7 @@
 - [EnderChests](https://www.curseforge.com/minecraft/mc-mods/enderchests)
 - [EnderTanks](https://www.curseforge.com/minecraft/mc-mods/endertanks)
 - [Excavation](https://www.curseforge.com/minecraft/mc-mods/excavation)
-- [Fertilization](https://www.curseforge.com/minecraft/mc-mods/fertilization
+- [Fertilization](https://www.curseforge.com/minecraft/mc-mods/fertilization)
 - [GravelMiner](https://www.curseforge.com/minecraft/mc-mods/gravelminer)
 - [Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
 - [JA Mining Dimension](https://www.curseforge.com/minecraft/mc-mods/jamd)
