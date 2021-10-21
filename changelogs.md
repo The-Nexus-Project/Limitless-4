@@ -24,7 +24,7 @@
 
 
 **Removed**
-- [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
+- [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe) (**Replaced by Jade**.)
 - [Vein Mining](https://www.curseforge.com/minecraft/mc-mods/vein-mining) (**Replaced by Excavation**)
 
 
