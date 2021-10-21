@@ -1,3 +1,75 @@
+<h1>v0.11.0</h1>
+
+**Mining Dimension, EnderChests + Tanks, Instanced Loot + More!**
+
+**NOTE! PACK IS STILL IN ITS EARLY DAYS, POTENTIAL MAJOR- BREAKING UPDATES COMING!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
+- [Creeper Confetti](https://www.curseforge.com/minecraft/mc-mods/creeper-confetti)
+- [Doggy Talents](https://www.curseforge.com/minecraft/mc-mods/doggy-talents)
+- [EnderChests](https://www.curseforge.com/minecraft/mc-mods/enderchests)
+- [EnderTanks](https://www.curseforge.com/minecraft/mc-mods/endertanks)
+- [Excavation](https://www.curseforge.com/minecraft/mc-mods/excavation)
+- [Fertilization](https://www.curseforge.com/minecraft/mc-mods/fertilization
+- [GravelMiner](https://www.curseforge.com/minecraft/mc-mods/gravelminer)
+- [Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
+- [JA Mining Dimension](https://www.curseforge.com/minecraft/mc-mods/jamd)
+- [Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr)
+- [More Dragon Eggs](https://www.curseforge.com/minecraft/mc-mods/more-dragon-eggs)
+- [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
+
+
+**Removed**
+- [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
+- [Vein Mining](https://www.curseforge.com/minecraft/mc-mods/vein-mining) (**Replaced by Excavation**)
+
+
+**Changes**
+- **Excavated** blocks will now automatically go into your inventory. (**Drops if inv is full.**)
+- Each **Ender Dragon kill** now yields a new **Dragon Egg**. (**Excluding with /kill command.**)
+- Most loot chests found around the world are now **per-player, per-chest**. (**Loot for everybody!**)
+- A new **Wasteland** called the **Mining Dimension** for just mining ores.
+- **Creepers** no longer destroy blocks upon exploding. (**Still damages you.**)
+- Lowered **Artifact** item generation chances in **Loot Chests**.
+- You can now **Excavate** blocks with an empty hand.
+- Changes in mod updates.
+
+
+**Fixes**
+- Crashes tied to the **Quarry Plus** mod has been fixed.
+- General fixes in mod updates. 
+
+
+**Updated**
+- Updated **Forge** to version **37.0.103**
+- All mods that could be updated have been updated.
+
+
+**Known Issues**
+- Item tooltip doesn't show **food & saturation** values in inventory. (**Forge issue.**)
+- There will be a slight lag spike when you first pick up an item in your newly created worlds. (**Forge issue.**)
+- Modded advancements overall are having issues in **Forge 1.17.1** right now.
+- **Particles** become **dark** when picking up **items/exp orbs**. (**Known Forge issue.**)
+- The **Server Console** being spammed with "Clicked" when punching blocks. (**Mod issue.**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-4/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.10.0</h1>
 
 **Artifacts, Chisels & Bits, Waystones + More!**
