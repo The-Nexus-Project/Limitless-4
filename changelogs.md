@@ -1,3 +1,68 @@
+<h1>v0.12.0</h1>
+
+**New Mobs, AE2, Simple Ore Processing + More!**
+
+**NOTE! PACK IS STILL IN ITS EARLY DAYS, POTENTIAL MAJOR- BREAKING UPDATES COMING!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
+- [Armor Sound Tweak](https://www.curseforge.com/minecraft/mc-mods/armor-sound-tweak)
+- [Bow Infinity Fix](https://www.curseforge.com/minecraft/mc-mods/bow-infinity-fix)
+- [Client Tweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks)
+- [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)
+- [IKWID](https://www.curseforge.com/minecraft/mc-mods/i-know-what-im-doing)
+- [Infernal Expansion](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion)
+- [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)
+- [Plain Grinder](https://www.curseforge.com/minecraft/mc-mods/plain-grinder)
+- [Restored Earth](https://www.curseforge.com/minecraft/mc-mods/restored-earth)
+- [Stoneholm](https://www.curseforge.com/minecraft/mc-mods/stoneholm-forge)
+- [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
+- [TrashSlot](https://www.curseforge.com/minecraft/mc-mods/trashslot)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Having the **Infinity Enchant** no longer requires an **arrow**.
+- Your own **potion particles** are now hidden from **view**.
+- Changed **ForgeLightPipeline** from **false** to **true**.
+- Changes in mod updates.
+
+
+**Fixes**
+- General fixes in mod updates. 
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Known Issues**
+- Item tooltip doesn't show **food & saturation** values in inventory. (**Mod issue.**)
+- There will be a slight lag spike when you first pick up an item in your newly created worlds. (**Forge issue.**)
+- Modded advancements overall are having issues in **Forge 1.17.1** right now.
+- **Particles** become **dark** when picking up **items/exp orbs**. (**Known Forge issue.**)
+- The **Server Console** being spammed with "Clicked" when punching blocks. (**Mod issue.**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-4/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.11.0</h1>
 
 **Mining Dimension, EnderChests + Tanks, Instanced Loot + More!**
