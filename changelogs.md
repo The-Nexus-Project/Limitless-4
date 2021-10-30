@@ -1,5 +1,7 @@
 <h1>v0.12.0</h1>
 
+**Headsup! A new world is recommended with this update!**
+
 **New Mobs, AE2, Simple Ore Processing + More!**
 
 **NOTE! PACK IS STILL IN ITS EARLY DAYS, POTENTIAL MAJOR- BREAKING UPDATES COMING!**
