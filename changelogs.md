@@ -1,3 +1,56 @@
+<h1>v0.13.0</h1>
+
+**A smaller update which updates mods to fix issues.**
+
+**NOTE! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- No mods added.
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Blacklisted **GUIs** where the **Inventory Sorting Buttons** where in the way or didn't fit in.
+- Changes in mod updates.
+
+
+**Fixes**
+- **Bee recipes** not working on servers has been fixed.
+- **Food tooltip** not working has been fixed.
+- Plus other fixes in mod updates. 
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Known Issues**
+- Item tooltip doesn't show **food & saturation** values in inventory. (**Mod issue.**)
+- There will be a slight lag spike when you first pick up an item in your newly created worlds. (**Forge issue.**)
+- Modded advancements overall are having issues in **Forge 1.17.1** right now.
+- **Particles** become **dark** when picking up **items/exp orbs**. (**Known Forge issue.**)
+- The **Server Console** being spammed with "Clicked" when punching blocks. (**Mod issue.**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-4/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.12.0</h1>
 
 **Headsup! A new world is recommended with this update!**
