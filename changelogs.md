@@ -31,7 +31,6 @@
 
 
 **Known Issues**
-- Item tooltip doesn't show **food & saturation** values in inventory. (**Mod issue.**)
 - There will be a slight lag spike when you first pick up an item in your newly created worlds. (**Forge issue.**)
 - Modded advancements overall are having issues in **Forge 1.17.1** right now.
 - **Particles** become **dark** when picking up **items/exp orbs**. (**Known Forge issue.**)
