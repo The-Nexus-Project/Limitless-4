@@ -1,3 +1,91 @@
+<h1>v0.14.0</h1>
+
+**Warning! Minimap mod has been changed. Please back up your waypoints etc before updating!**
+
+**NOTE! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Additional Lights](https://www.curseforge.com/minecraft/mc-mods/additional-lights)
+- [AtomicStryker's Infernal Mobs](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-infernal-mobs)
+- [Awesome Dungeon](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-forge)
+- [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic)
+- [Domum Ornamentum](https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum)
+- [Easy Magic](https://www.curseforge.com/minecraft/mc-mods/easy-magic)
+- [Energy Meter](https://www.curseforge.com/minecraft/mc-mods/energymeter)
+- [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
+- [Farming for Blockheads](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads)
+- [Guard Villagers](https://www.curseforge.com/minecraft/mc-mods/guard-villagers)
+- [Jonn's Trophy Manager](https://www.curseforge.com/minecraft/mc-mods/trophymanager)
+- [Journey Map](https://www.curseforge.com/minecraft/mc-mods/journeymap)
+- [Jumpy Boats](https://www.curseforge.com/minecraft/mc-mods/jumpy-boats)
+- [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips)
+- [MmmMmmMmmMmm (Target Dummy)](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)
+- [Pam's HC2 Food Core](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core)
+- [Pick Up Notifier](https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier)
+- [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph)
+- [Portable Tanks](https://www.curseforge.com/minecraft/mc-mods/portable-tanks)
+- [Roots Classic](https://www.curseforge.com/minecraft/mc-mods/roots-classic)
+- [Super Multi-Drills](https://www.curseforge.com/minecraft/mc-mods/super-multi-drills)
+- [Thut Essentials](https://www.curseforge.com/minecraft/mc-mods/thut-essentials)
+- [Trading Post](https://www.curseforge.com/minecraft/mc-mods/trading-post)
+- [WitherUtils EXP](https://www.curseforge.com/minecraft/mc-mods/witherutils-exp)
+
+
+**Removed**
+- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- [Xaero's Worldmap](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+
+
+**Changes**
+- Teams can now be created & chunks can now be claimed.
+- Some basic commands added. 
+
+> Basic Commands: [ /home, /set_home, /tpa, /rtp + more. ]
+
+> Claim Commands: [ /create_team [team_name] & /claim, /unclaim ]
+
+> Read more [HERE](https://www.curseforge.com/minecraft/mc-mods/thut-essentials) !
+- **Lapis Lazuli** & **Items** now stay in the **Enchanting Table**.
+- New and improved tooltip borders.
+- Mobs can now drop **rare trophies**.
+- New worldgen structures.
+- Changes in mod updates.
+
+
+**Fixes**
+- Fixes in mod updates. 
+
+
+**Updated**
+- Updated **Forge** to version **37.0.109**
+- All mods that could be updated have been updated.
+
+
+**Known Issues**
+- TrashSlot is not functional on servers. (**Investigating!**)
+- There will be a slight lag spike when you first pick up an item in your newly created worlds. (**Forge issue.**)
+- Loading into worlds/servers might take some time. You'll get in eventually.
+- Modded advancements overall are having issues in **Forge 1.17.1** right now.
+- **Particles** become **dark** when picking up **items/exp orbs**. (**Known Forge issue.**)
+- The **Server Console** being spammed with "Clicked" when punching blocks. (**Mod issue.**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-4/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.13.0</h1>
 
 **A smaller update which updates mods to fix issues.**
