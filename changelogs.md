@@ -7,7 +7,6 @@
 
 **Added**
 - [Customizable Elytra](https://www.curseforge.com/minecraft/mc-mods/customizable-elytra)
-- [Drink Beer](https://www.curseforge.com/minecraft/mc-mods/drink-beer-forge) (+ [JEI Keg](https://www.curseforge.com/minecraft/mc-mods/just-enough-keg))
 - [Dramatic Doors](https://www.curseforge.com/minecraft/mc-mods/dramatic-doors)
 - [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
 - [Oreberries Replanted](https://www.curseforge.com/minecraft/mc-mods/oreberries-replanted)
