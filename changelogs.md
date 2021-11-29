@@ -15,7 +15,6 @@
 - [Sky Villages](https://www.curseforge.com/minecraft/mc-mods/sky-villages-forge)
 - [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 - [Tiny Skeletons](https://www.curseforge.com/minecraft/mc-mods/tiny-skeletons-forge)
-- [Visuality](https://www.curseforge.com/minecraft/mc-mods/visuality-forge)
 
 
 **Removed**
