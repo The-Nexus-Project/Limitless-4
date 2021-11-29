@@ -1,3 +1,66 @@
+<h1>v0.15.0</h1>
+
+**NOTE! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Customizable Elytra](https://www.curseforge.com/minecraft/mc-mods/customizable-elytra)
+- [Drink Beer](https://www.curseforge.com/minecraft/mc-mods/drink-beer-forge) (+ [JEI Keg](https://www.curseforge.com/minecraft/mc-mods/just-enough-keg))
+- [Dramatic Doors](https://www.curseforge.com/minecraft/mc-mods/dramatic-doors)
+- [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
+- [Oreberries Replanted](https://www.curseforge.com/minecraft/mc-mods/oreberries-replanted)
+- [SmoothFocus](https://www.curseforge.com/minecraft/mc-mods/smoothfocus)
+- [Sky Villages](https://www.curseforge.com/minecraft/mc-mods/sky-villages-forge)
+- [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+- [Tiny Skeletons](https://www.curseforge.com/minecraft/mc-mods/tiny-skeletons-forge)
+- [Visuality](https://www.curseforge.com/minecraft/mc-mods/visuality-forge)
+
+
+**Removed**
+- [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic) (**Will be re-added in the future!**)
+
+
+**Changes**
+- You can now zoom. (**X button by default.**)
+- Some new mobs.
+- Changes in mod updates. 
+
+
+**Fixes**
+- A crash when acquiring a trophy from Infernal Expansion mobs has been fixed.
+- Fixed server not being able to start on certain server hosts. (**Example: BisectHosting.**)
+- Fixes in mod updates. 
+
+
+**Updated**
+- Updated **Forge** to version **37.0.126**
+- All mods that could be updated have been updated.
+
+
+**Known Issues**
+- TrashSlot is not functional on servers. (**Investigating!**)
+- There will be a slight lag spike when you first pick up an item in your newly created worlds. (**Forge issue.**)
+- Loading into worlds/servers might take some time. You'll get in eventually.
+- Modded advancements overall are having issues in **Forge 1.17.1** right now.
+- **Particles** become **dark** when picking up **items/exp orbs**. (**Known Forge issue.**)
+- The **Server Console** being spammed with "Clicked" when punching blocks. (**Mod issue.**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-4/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.14.1</h1>
 
 **A small "hotfix", fixes crafting issues with PolyMorph & removes a mod.**
