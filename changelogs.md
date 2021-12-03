@@ -14,6 +14,7 @@
 
 
 **Changes**
+- Official server has closed its doors. (**Removed from Server List.**)
 - Some changes in mod updates. 
 
 
