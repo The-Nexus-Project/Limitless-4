@@ -14,7 +14,7 @@
 
 
 **Changes**
-- Changes in mod updates. 
+- Some changes in mod updates. 
 
 
 **Fixes**
