@@ -1,3 +1,79 @@
+<h1>v1.1.0</h1>
+
+**New mods, Mods updated, some fixes!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
+- [Bedspreads](https://www.curseforge.com/minecraft/mc-mods/bedspreads)
+- [Better Third Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person)
+- [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
+- [Charging Gadgets](https://www.curseforge.com/minecraft/mc-mods/charging-gadgets)
+- [Chromato Creeper](https://www.curseforge.com/minecraft/mc-mods/chromato-creeper)
+- [ChocoCraft](https://www.curseforge.com/minecraft/mc-mods/chococraft)
+- [Click Machine](https://www.curseforge.com/minecraft/mc-mods/click-machine)
+- [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity)
+- [Create](https://www.curseforge.com/minecraft/mc-mods/create) (+ [Flywheel Lib](https://www.curseforge.com/minecraft/mc-mods/flywheel))
+- [Create Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/createaddition)
+- [Curious Elytra](https://www.curseforge.com/minecraft/mc-mods/curious-elytra)
+- [Curious Shulker Boxes](https://www.curseforge.com/minecraft/mc-mods/curious-shulker-boxes)
+- [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
+- [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
+- [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite)
+- [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
+- [Floral Flair](https://www.curseforge.com/minecraft/mc-mods/floral-flair)
+- [Habitat](https://www.curseforge.com/minecraft/mc-mods/habitat)
+- [Just Enough Effect Descriptions](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed)
+- [Lighting Wand](https://www.curseforge.com/minecraft/mc-mods/lighting-wand)
+- [Mining Gadgets](https://www.curseforge.com/minecraft/mc-mods/mining-gadgets)
+- [Occultism](https://www.curseforge.com/minecraft/mc-mods/occultism)
+- [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
+- [Potion Bundles](https://www.curseforge.com/minecraft/mc-mods/potion-bundles)
+- [Ranged Wireless Redstone](https://www.curseforge.com/minecraft/mc-mods/ranged-wireless-redstone)
+- [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
+- [Storage Racks](https://www.curseforge.com/minecraft/mc-mods/storage-racks) (+[BlockUI](https://www.curseforge.com/minecraft/mc-mods/blockui))
+- [Stylish Effects](https://www.curseforge.com/minecraft/mc-mods/stylish-effects)
+- [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
+- [Vanilla Excavators](https://www.curseforge.com/minecraft/mc-mods/vanilla-excavators-forge)
+- [Vanilla Hammers](https://www.curseforge.com/minecraft/mc-mods/vanilla-hammers-forge)
+- [Window Logging](https://www.curseforge.com/minecraft/mc-mods/windowlogging)
+- [Wither Skeleton Tweaks](https://www.curseforge.com/minecraft/mc-mods/wither-skeleton-tweaks)
+
+
+**Removed**
+- [I Know What I'm Doing](https://www.curseforge.com/minecraft/mc-mods/i-know-what-im-doing)
+- [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
+
+
+
+**Changes**
+- Changes in mod updates. 
+
+
+**Fixes**
+- Fixes in mod updates. 
+
+
+**Updated**
+- **Forge** from version **37.1.1** to **37.1.1**
+- All mods that could be updated have been updated.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-4/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.0.0</h1>
 
 **Release version, mods updated, some fixes included.**
